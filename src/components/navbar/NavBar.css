@@ -1,0 +1,16 @@
+.navbar {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    position: relative;
+    padding: 0.5rem; 
+    align-items: center;  
+}
+.navbar button{
+    width: 9rem;
+    margin: 5px;
+    border: 2px solid;
+    border-radius: 6px;
+    padding: 1.5rem 1rem;
+}
